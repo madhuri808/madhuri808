@@ -4,9 +4,14 @@ Aspiring Data Analyst | Passionate about transforming raw data into meaningful i
 Skilled in SQL, Python, and Power BI
 
 <!--
-**madhuri808/madhuri808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+🧑‍💻 About Me
+🎓 A self-motivated professional with expertise in data analysis and visualization.
+📍 Based in Bangalore | Open to freelance/remote opportunities.
+💡 Love solving business problems and optimizing workflows through data-driven insights.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
