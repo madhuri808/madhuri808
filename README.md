@@ -1,4 +1,4 @@
-##👋 Hi, I'm Madhuri Padole!
+👋 Hi, I'm Madhuri Padole!
 
 Aspiring Data Analyst | Passionate about transforming raw data into meaningful insights 🔍
 Skilled in SQL, Python, and Power BI
