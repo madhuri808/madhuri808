@@ -1,4 +1,7 @@
-## Hi there 👋
+##👋 Hi, I'm Madhuri Padole!
+
+Aspiring Data Analyst | Passionate about transforming raw data into meaningful insights 🔍
+Skilled in SQL, Python, and Power BI
 
 <!--
 **madhuri808/madhuri808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
