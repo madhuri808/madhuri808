@@ -15,7 +15,7 @@ Aspiring Data Analyst | Passionate about transforming raw data into meaningful i
 ---
 Programming Languages and Tools:  
 
-Python
-SQL
-Power BI
-Excel
+Python  
+SQL  
+Power BI  
+Excel  
