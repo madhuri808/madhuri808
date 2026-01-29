@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhuri Padole</h1>
 <h3 align="center">
-Aspiring Data Analyst | SQL • Power BI • Python • Excel | Data → Insights → Decisions
+Data Analyst | SQL • Power BI • Python • Excel | Data → Insights → Decisions
 </h3>
 
 ---
@@ -71,4 +71,5 @@ Aspiring Data Analyst | SQL • Power BI • Python • Excel | Data → Insight
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/madhuri-padole-93b875259)**
 - 📧 **madhuripadole390@gmail.com**
 
-> *“Turning data into actionable insights using SQL, Excel, Power BI, and Python.”*
+📊 *Every dataset tells a story — I turn it into clear, actionable insights.*
+
