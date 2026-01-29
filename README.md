@@ -1,37 +1,43 @@
 <h1 align="center">Hi 👋, I'm Madhuri Padole</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel</h3>
-
-
-- 🧠 Strong in **SQL, Excel, Power BI**
-- 💼 Working on real-world projects like **EV vehicle sales analysis** and **OTT Strategy Analysis**
-- 📊 Passionate about **data storytelling** and delivering **business insights**
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/madhuri-padole-93b875259)
+<h3 align="center">
+Aspiring Data Analyst | SQL • Power BI • Python • Excel | Data → Insights → Decisions
+</h3>
 
 ---
 
-### 💼 SQL Projects:
-- 🔍 [Goodcabs Transportation Optimization](https://github.com/madhuri808/Goodcabs-Transportation)  
-  *Analyzed cab bookings and driver performance using advanced SQL queries.*
-
-- 🚗 [EV Vehicles Sales Tracking](https://github.com/madhuri808/evvehicless)  
-  *Insights on electric vehicle sales and trends using filtering and aggregation logic.*
-
-- 📋 [Ad Hoc Request – SQL Project](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)  
-  *Solved multiple business questions using subqueries, joins, and window functions.*
-
-- 📺 [Strategic Merger in OTT](https://github.com/madhuri808/strategic-merger-in-ott)  
-  *Analyzed LioCinema & Jotstar performance and user behavior post-merger.*
+### 👩‍💻 About Me
+- 🧠 Strong foundation in **SQL, Excel, Power BI**
+- 💼 Hands-on experience with **real-world business case studies**
+- 📊 Passionate about **data storytelling, dashboards & insights**
+- 🎯 Focused on solving **business problems using data**
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/madhuri-padole-93b875259)**
 
 ---
 
-### 📊 Excel Projects:
-- 🛍️ [Sales Analysis Using Excel](https://github.com/madhuri808/SALES-ANALYSIS-USING-EXCEL)  
-  *Created dashboards using pivot tables and charts to analyze sales performance.*
+## 💼 SQL Projects
 
+🔍 **[Goodcabs Transportation Optimization](https://github.com/madhuri808/Goodcabs-Transportation)**  
+*Analyzed cab bookings, trip efficiency, and driver performance using joins, CTEs, and window functions.*
+
+🚗 **[EV Vehicle Sales Tracking](https://github.com/madhuri808/evvehicless)**  
+*Performed sales trend analysis on electric vehicles using aggregations, filtering, and KPIs.*
+
+📋 **[Ad Hoc Business Requests – SQL](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)**  
+*Solved multiple on-demand business questions using advanced SQL queries.*
+
+📺 **[Strategic Merger Analysis – OTT Platforms](https://github.com/madhuri808/strategic-merger-in-ott)**  
+*Analyzed user behavior and platform performance post-merger of LioCinema & Jotstar.*
 
 ---
 
-## 🚀 Tools & Skills:
+## 📊 Excel Projects
+
+🛍️ **[Sales Performance Analysis](https://github.com/madhuri808/SALES-ANALYSIS-USING-EXCEL)**  
+*Built interactive dashboards using pivot tables, charts, and Excel formulas.*
+
+---
+
+## 🚀 Technical Arsenal
 
 ### 🗄️ Languages & Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,7 +50,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
 
 ### 🐍 Data Analysis & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,10 +67,8 @@
 
 ---
 
+## 📬 Let’s Connect
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/madhuri-padole-93b875259)**
+- 📧 **madhuripadole390@gmail.com**
 
-### 📬 Let's Connect
-- 🔗 [LinkedIn](www.linkedin.com/in/madhuri-padole-93b875259)
-- 📧 *madhuripadole390@gmail.com* 
-
-> “Turning data into decisions with SQL, Excel, and Power BI.”
-
+> *“Turning data into actionable insights using SQL, Excel, Power BI, and Python.”*
