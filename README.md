@@ -94,6 +94,19 @@ Built a 3-year P&L report for AtliQ Hardware using Pivot Tables, DAX, and Power 
 
 ---
 
+### 📋 Ad Hoc SQL Analysis — AtliQ Hardware
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+&nbsp;**[View Project →](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)**
+
+Executed **10 targeted SQL queries** to address critical business questions on sales, discounts, and market reach for AtliQ Hardware.
+
+- 📈 Revealed a **36.3% increase** in unique products and expanded market presence across **8 APAC countries**
+- 🏆 Highlighted retailer channels as primary revenue drivers with **73% of gross sales**
+- 🔍 Applied CTEs, window functions, JOINs & subqueries for complex business queries
+
+---
+
 ### 🎬 OTT Platform Merger Analysis — LioCinema & Jotstar
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -117,19 +130,6 @@ Goodcabs operates across **10 Tier-2 cities** in India. Analyzed trip performanc
 - 🏙️ Evaluated city-level trip volumes, revenue patterns & driver performance
 - 🔁 Analyzed new vs. repeat passenger ratios to assess customer retention
 - 🎯 Identified cities consistently meeting vs. missing monthly targets
-
----
-
-### 📋 Ad Hoc SQL Analysis — AtliQ Hardware
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-&nbsp;**[View Project →](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)**
-
-Executed **10 targeted SQL queries** to address critical business questions on sales, discounts, and market reach for AtliQ Hardware.
-
-- 📈 Revealed a **36.3% increase** in unique products and expanded market presence across **8 APAC countries**
-- 🏆 Highlighted retailer channels as primary revenue drivers with **73% of gross sales**
-- 🔍 Applied CTEs, window functions, JOINs & subqueries for complex business queries
 
 ---
 
