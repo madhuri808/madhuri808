@@ -55,10 +55,11 @@ analyst = {
 
 | 🚀 Project | 📝 Description | 🔧 Key Concepts |
 |-----------|---------------|-----------------|
+| 🛒 **[Retail Events SQL Project](https://github.com/madhuri808/retail-events-sql-project)** | Analyzed Diwali & Sankranti promotions for AtliQ Mart across 50+ stores — top products, revenue impact & ISU% | JOINs, CASE-WHEN, Aggregations, Revenue Analysis |
 | 🔍 **[Goodcabs Transportation Optimization](https://github.com/madhuri808/Goodcabs-Transportation)** | Analyzed cab bookings, trip efficiency & driver performance | JOINs, CTEs, Window Functions |
 | 🚗 **[EV Vehicle Sales Tracking](https://github.com/madhuri808/evvehicless)** | Sales trend analysis on electric vehicles | Aggregations, Filtering, KPIs |
 | 📋 **[Ad Hoc Business Requests](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)** | Solved multiple on-demand business questions | Advanced SQL Queries |
-| 📺 **[Strategic Merger Analysis – OTT](https://github.com/madhuri808/strategic-merger-in-ott)** | Analyzed LioCinema & Jotstar post-merger performance | User Behavior, Platform Analytics |
+| 📺 **[Strategic Merger Analysis – OTT](https://github.com/madhuri808/strategic-merger-in-ott)** | Analyzed LioCinema & Jotstar subscriber behavior, watch time, revenue & upgrade trends | Window Functions, UNION ALL, DATEDIFF |
 
 ---
 
