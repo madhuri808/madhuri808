@@ -81,6 +81,19 @@ AtliQ Mart ran large-scale festive promotions across **50+ stores** during Diwal
 
 ---
 
+### 🎬 OTT Platform Merger Analysis — LioCinema & Jotstar
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+&nbsp;**[View Project →](https://github.com/madhuri808/strategic-merger-in-ott)**
+
+Evaluated merger feasibility between two Indian OTT platforms — comparing subscribers, content, watch time & revenue across Jan–Nov 2024.
+
+- 📊 Compared H1 vs H2 user growth trends across both platforms
+- 🔄 Analyzed upgrade & downgrade patterns to assess user satisfaction
+- 🗺️ Paid user distribution across Tier 1/2/3 cities — key post-merger pricing insight
+
+---
+
 ### 📊 Sales & Financial Performance — AtliQ Hardware
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -104,19 +117,6 @@ Executed **10 targeted SQL queries** to address critical business questions on s
 - 📈 Revealed a **36.3% increase** in unique products and expanded market presence across **8 APAC countries**
 - 🏆 Highlighted retailer channels as primary revenue drivers with **73% of gross sales**
 - 🔍 Applied CTEs, window functions, JOINs & subqueries for complex business queries
-
----
-
-### 🎬 OTT Platform Merger Analysis — LioCinema & Jotstar
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-&nbsp;**[View Project →](https://github.com/madhuri808/strategic-merger-in-ott)**
-
-Evaluated merger feasibility between two Indian OTT platforms — comparing subscribers, content, watch time & revenue across Jan–Nov 2024.
-
-- 📊 Compared H1 vs H2 user growth trends across both platforms
-- 🔄 Analyzed upgrade & downgrade patterns to assess user satisfaction
-- 🗺️ Paid user distribution across Tier 1/2/3 cities — key post-merger pricing insight
 
 ---
 
