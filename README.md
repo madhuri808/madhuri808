@@ -27,7 +27,7 @@ My work spans **retail, transportation, OTT platforms, and manufacturing** — c
 ### 📌 MIS Analyst — Automation Control, Nagpur
 **June 2025 – Present**
 
-`Google Apps Script` `Google Sheets` `Looker Studio` `Power BI` `Advanced Excel`
+`Power BI` `SQL` `Advanced Excel` `Google Apps Script` `Google Sheets` `Google Looker Studio`  
 
 - 📊 Developed **interactive Power BI dashboards** to visualize performance metrics and deliver reports to management
 - 📁 Prepared and maintained **daily, weekly, and monthly MIS reports** for management and operations teams
@@ -132,11 +132,13 @@ Executed **10 targeted SQL queries** to address critical business questions on s
 - 🔍 Applied CTEs, window functions, JOINs & subqueries for complex business queries
 
 ---
+
 ### 📊 Business Insight 360 — AtliQ Hardware
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+&nbsp;**[View Project →](https://www.linkedin.com/feed/update/urn:li:activity:7220829350865092608/)**
 
 Designed a multi-view Power BI dashboard for **5 departments** (Sales, Finance, Supply Chain, Marketing, Executive) at AtliQ Hardware.
 
@@ -145,6 +147,7 @@ Designed a multi-view Power BI dashboard for **5 departments** (Sales, Finance, 
 - 💰 Delivered insights projecting **10% revenue growth** and **20% reduction** in data-related expenses
 
 ---
+
 ## 🏅 Certifications
 
 - 📜 Power BI Data Analytics
