@@ -14,11 +14,25 @@
 
 ## 👩‍💻 About Me
 
-Data Analyst with hands-on experience solving real-world business problems using **SQL, Excel, and Power BI**. I specialize in turning complex data into clear insights that help businesses make faster, smarter decisions.
+Data Analyst with **1 year of professional experience** as an MIS Analyst, and hands-on project work using **SQL, Power BI, Excel, and Looker Studio**. I specialize in turning complex data into clear insights that help businesses make faster, smarter decisions.
 
-My work spans **retail, transportation, OTT platforms, and electric vehicles** — covering sales performance, customer behavior, revenue trends, and operational efficiency.
+My work spans **retail, transportation, OTT platforms, and manufacturing** — covering sales performance, customer behavior, revenue trends, and operational efficiency.
 
 🎯 Actively looking for a **Data Analyst role** where I can contribute to data-driven decision-making.
+
+---
+
+## 💼 Experience
+
+### 📌 MIS Analyst — Automation Control, Nagpur
+**June 2025 – Present**
+
+`Google Apps Script` `Google Sheets` `Looker Studio` `Power BI` `Advanced Excel`
+
+- 📊 Developed **interactive Power BI dashboards** to visualize performance metrics and deliver reports to management
+- 📁 Prepared and maintained **daily, weekly, and monthly MIS reports** for management and operations teams
+- 🔗 Coordinated with **multiple departments** to collect, verify, and update data within defined timelines
+- 📋 Provided **ad-hoc reports and summaries** as requested by senior stakeholders
 
 ---
 
@@ -43,13 +57,14 @@ My work spans **retail, transportation, OTT platforms, and electric vehicles** �
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 ---
 
 ## 📁 Projects
+---
 
 ### 🛒 Retail Promotion Analysis — AtliQ Mart
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -66,17 +81,16 @@ AtliQ Mart ran large-scale festive promotions across **50+ stores** during Diwal
 
 ---
 
-### 🚖 Cab Operations Analysis — Goodcabs
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-&nbsp;**[View Project →](https://github.com/madhuri808/Goodcabs-Transportation)**
+### 📊 Sales & Financial Performance — AtliQ Hardware
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+&nbsp;**[View Project →](https://github.com/madhuri808/SALES-ANALYSIS-USING-EXCEL)**
 
-Goodcabs operates across **10 Tier-2 cities** in India. Analyzed trip performance, passenger trends, and target achievement for the Chief of Operations.
+Built a 3-year P&L report for AtliQ Hardware using Pivot Tables, DAX, and Power Query to bring data transparency across sales & finance.
 
-- 🏙️ Evaluated city-level trip volumes, revenue patterns & driver performance
-- 🔁 Analyzed new vs. repeat passenger ratios to assess customer retention
-- 🎯 Identified cities consistently meeting vs. missing monthly targets
-- 💼 Structured findings to directly support operational strategy decisions
+- ⚙️ Automated data cleaning using Power Query, saving **~4 hours of manual work**
+- 📐 Crafted DAX measures offering **25% more flexibility** in calculations
+- 🌍 Market vs Target report highlighted countries missing sales goals
 
 ---
 
@@ -89,46 +103,53 @@ Evaluated merger feasibility between two Indian OTT platforms — comparing subs
 
 - 📊 Compared H1 vs H2 user growth trends across both platforms
 - 🔄 Analyzed upgrade & downgrade patterns to assess user satisfaction
-- 💰 Calculated platform-wise revenue based on plan pricing & active months
-- 🗺️ Paid user distribution varied across Tier 1/2/3 cities — key post-merger pricing insight
+- 🗺️ Paid user distribution across Tier 1/2/3 cities — key post-merger pricing insight
 
 ---
 
-### 📋 Ad Hoc SQL Analysis
+### 🚖 Cab Operations Analysis — Goodcabs
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+&nbsp;**[View Project →](https://github.com/madhuri808/Goodcabs-Transportation)**
+
+Goodcabs operates across **10 Tier-2 cities** in India. Analyzed trip performance, passenger trends, and target achievement for the Chief of Operations.
+
+- 🏙️ Evaluated city-level trip volumes, revenue patterns & driver performance
+- 🔁 Analyzed new vs. repeat passenger ratios to assess customer retention
+- 🎯 Identified cities consistently meeting vs. missing monthly targets
+
+---
+
+### 📋 Ad Hoc SQL Analysis — AtliQ Hardware
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 &nbsp;**[View Project →](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)**
 
-Solved on-demand business questions using advanced SQL — simulating real analyst work where quick, accurate answers are needed by leadership.
+Executed **10 targeted SQL queries** to address critical business questions on sales, discounts, and market reach for AtliQ Hardware.
 
-- 🔍 Used CTEs, window functions, JOINs & subqueries for complex queries
-- 📄 Delivered structured outputs ready for business reporting
+- 📈 Revealed a **36.3% increase** in unique products and expanded market presence across **8 APAC countries**
+- 🏆 Highlighted retailer channels as primary revenue drivers with **73% of gross sales**
+- 🔍 Applied CTEs, window functions, JOINs & subqueries for complex business queries
 
 ---
-
-### 📊 Sales & Financial Performance — AtliQ Hardware
+### 📊 Business Insight 360 — AtliQ Hardware
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-&nbsp;**[View Project →](https://github.com/madhuri808/SALES-ANALYSIS-USING-EXCEL)**
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-AtliQ Hardware faced losses in Latin America due to intuition-based decisions. Built Excel reports to bring data transparency across sales & P&L.
+Designed a multi-view Power BI dashboard for **5 departments** (Sales, Finance, Supply Chain, Marketing, Executive) at AtliQ Hardware.
 
-- 👥 Customer Performance Report — net sales comparison across multiple years
-- 🌍 Market vs Target report — highlighted countries missing sales goals
-- 🏆 Identified top 10 products & top 5 countries by 2021 revenue
-- 📅 Monthly P&L analysis revealed key seasonal revenue patterns
+- 🗄️ Integrated **1M+ records** from MySQL and Excel with full data modeling
+- ⚡ Used DAX Studio to achieve **25% reduction in storage** and **10% efficiency improvement**
+- 💰 Delivered insights projecting **10% revenue growth** and **20% reduction** in data-related expenses
 
 ---
+## 🏅 Certifications
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=madhuri808&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=388bfd&rank_icon=github" />
-
-</div>
-
----
+- 📜 Power BI Data Analytics
+- 📜 Excel Basic to Advance — Udemy
+- 📜 Accenture Data Analyst Job Simulation — Forage
 
 ## 📬 Let's Connect
 
