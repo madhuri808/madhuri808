@@ -94,20 +94,6 @@ Evaluated merger feasibility between two Indian OTT platforms — comparing subs
 
 ---
 
-### ⚡ EV Market Study — AtliQ Motors India
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-&nbsp;**[View Project →](https://github.com/madhuri808/evvehicless)**
-
-AtliQ Motors planned India market entry with under 2% market share. Conducted full market analysis to support the entry strategy.
-
-- 🏆 Identified top & bottom EV makers for 2-wheelers across FY 2023–24
-- 🗺️ Calculated state-wise penetration rates to find high-opportunity markets
-- 📈 Performed CAGR analysis on top 4-wheeler makers (2022–2024)
-- 📅 Found March as peak sales month & flagged states with declining EV adoption
-
----
-
 ### 📋 Ad Hoc SQL Analysis
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
