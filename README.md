@@ -1,39 +1,72 @@
-<h1 align="center">Hi 👋, I'm Madhuri Padole</h1>
-<h3 align="center">
-Data Analyst | SQL • Power BI • Python • Excel | Data → Insights → Decisions
-</h3>
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Madhuri%20Padole&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Excel;Data+%E2%86%92+Insights+%E2%86%92+Decisions+%F0%9F%9A%80;Every+Dataset+Tells+a+Story+%F0%9F%92%A1" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-padole-93b875259)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuripadole390@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhuri808)
+![Profile Views](https://komarev.com/ghpvc/?username=madhuri808&color=388bfd&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
+
+```python
+analyst = {
+    "name"       : "Madhuri Padole",
+    "role"       : "Data Analyst",
+    "skills"     : ["SQL", "Power BI", "Python", "Excel"],
+    "passion"    : "Data Storytelling & Dashboards",
+    "focus"      : "Solving business problems using data",
+    "mindset"    : "Every dataset tells a story 📊"
+}
+```
+
 - 🧠 Strong foundation in **SQL, Excel, Power BI**
 - 💼 Hands-on experience with **real-world business case studies**
 - 📊 Passionate about **data storytelling, dashboards & insights**
 - 🎯 Focused on solving **business problems using data**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/madhuri-padole-93b875259)**
+- 📫 Connect: **[LinkedIn](https://www.linkedin.com/in/madhuri-padole-93b875259)** | **[madhuripadole390@gmail.com](mailto:madhuripadole390@gmail.com)**
 
 ---
 
-## 💼 SQL Projects
+## 📊 GitHub Stats
 
-🔍 **[Goodcabs Transportation Optimization](https://github.com/madhuri808/Goodcabs-Transportation)**  
-*Analyzed cab bookings, trip efficiency, and driver performance using joins, CTEs, and window functions.*
+<div align="center">
 
-🚗 **[EV Vehicle Sales Tracking](https://github.com/madhuri808/evvehicless)**  
-*Performed sales trend analysis on electric vehicles using aggregations, filtering, and KPIs.*
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhuri808&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhuri808&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=388bfd&currStreakLabel=58a6ff" />
 
-📋 **[Ad Hoc Business Requests – SQL](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)**  
-*Solved multiple on-demand business questions using advanced SQL queries.*
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri808&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-📺 **[Strategic Merger Analysis – OTT Platforms](https://github.com/madhuri808/strategic-merger-in-ott)**  
-*Analyzed user behavior and platform performance post-merger of LioCinema & Jotstar.*
+</div>
 
 ---
 
-## 📊 Excel Projects
+## 🗄️ SQL Projects
 
-🛍️ **[Sales Performance Analysis](https://github.com/madhuri808/SALES-ANALYSIS-USING-EXCEL)**  
-*Built interactive dashboards using pivot tables, charts, and Excel formulas.*
+| 🚀 Project | 📝 Description | 🔧 Key Concepts |
+|-----------|---------------|-----------------|
+| 🔍 **[Goodcabs Transportation Optimization](https://github.com/madhuri808/Goodcabs-Transportation)** | Analyzed cab bookings, trip efficiency & driver performance | JOINs, CTEs, Window Functions |
+| 🚗 **[EV Vehicle Sales Tracking](https://github.com/madhuri808/evvehicless)** | Sales trend analysis on electric vehicles | Aggregations, Filtering, KPIs |
+| 📋 **[Ad Hoc Business Requests](https://github.com/madhuri808/AD-HOC-REQ.---SQL-PROJECT)** | Solved multiple on-demand business questions | Advanced SQL Queries |
+| 📺 **[Strategic Merger Analysis – OTT](https://github.com/madhuri808/strategic-merger-in-ott)** | Analyzed LioCinema & Jotstar post-merger performance | User Behavior, Platform Analytics |
+
+---
+
+## 📈 Excel Projects
+
+| 🚀 Project | 📝 Description | 🔧 Key Concepts |
+|-----------|---------------|-----------------|
+| 🛍️ **[Sales Performance Analysis](https://github.com/madhuri808/SALES-ANALYSIS-USING-EXCEL)** | Interactive dashboards with pivot tables & charts | Pivot Tables, Charts, Formulas |
 
 ---
 
@@ -67,9 +100,17 @@ Data Analyst | SQL • Power BI • Python • Excel | Data → Insights → Dec
 
 ---
 
-## 📬 Let’s Connect
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/madhuri-padole-93b875259)**
-- 📧 **madhuripadole390@gmail.com**
+## 📬 Let's Connect
 
-📊 *Every dataset tells a story — I turn it into clear, actionable insights.*
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-padole-93b875259)
+[![Gmail](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuripadole390@gmail.com)
+
+<br/>
+
+> 📊 *Every dataset tells a story — I turn it into clear, actionable insights.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
